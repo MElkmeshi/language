@@ -20,7 +20,7 @@ The script contains two dictionaries, `english_to_arabic` and `arabic_to_english
 2. Run the script:
 
    ```
-   python arabic_english_keyboard_mapper.py
+   python app.py
    ```
 
 3. Type or paste the Arabic text you want to convert into any text input field (e.g., a text editor or web form).
@@ -30,3 +30,5 @@ The script contains two dictionaries, `english_to_arabic` and `arabic_to_english
 5. The script will automatically select all the text (`Ctrl + A`), cut it (`Ctrl + X`), convert it, and paste the converted text back (`Ctrl + V`).
 
 **Note:** The script currently only supports converting Arabic text typed using an English keyboard to Arabic characters. It does not support converting English text typed using an Arabic keyboard to English characters.
+
+this text was made by Chat-GPT
